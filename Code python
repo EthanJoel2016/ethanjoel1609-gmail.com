@@ -1,0 +1,10 @@
+# Sorprende a tus compañeros
+my_words = ["me gusta la pizza", "me encanta jugar", "me encanta la f1"] 
+print(my_words[1])
+
+name = input()
+print("Hi ", name)
+
+import random
+emojis = ["^^", "0_o", ":)", "¯\_(ツ)_/¯", "(￢_￢)"]
+print(random.choice(emojis))
